@@ -44,7 +44,7 @@ The core idea is to automate and enhance the interview evaluation process by lev
 
 ### 1. LLM Fine-tuning
 
-The `oaZkFYweTb-P`, `l3ZQjVe_d3BE`, `_ObEdCcyi75u`, `uCEiZga0iT-6`, `5eWppMX5i2xP`, and `NzWNlmWmjbyP` cells handle the model loading, 4-bit quantization, LoRA configuration, dataset preparation, and training of the Mistral model.
+ cells handle the model loading, 4-bit quantization, LoRA configuration, dataset preparation, and training of the Mistral model.
 
 ```python
 import torch
